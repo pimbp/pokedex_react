@@ -1,0 +1,17 @@
+.link {
+    height: 15vh;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 15vh; 
+    color: #9cc515;
+    font-size: 5vh;
+    font-weight: 600;
+    margin-right: 5vh;
+    margin-left: 5vh;
+}
+
+.link:hover{
+    background-color: #A70505;
+    color: #8cb505
+}
